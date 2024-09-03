@@ -16,7 +16,7 @@
     <br>
     <p>
         <strong>
-            Welcome to my GitHub! I'm a problem-solving engineer with a passion for AI/ML and a jump shot for innovation. Just as a point guard orchestrates the perfect play, I specialize in developing AI/ML solutions and solutions that score big in the tech world.<br><br>
+            Welcome to my GitHub! I'm a problem-solving engineer with a passion for AI/ML and a jump shot for innovation. Just as a point guard orchestrates the perfect play, I specialize in developing AI/ML models and solutions that score big in the tech world.<br><br>
             Let's connect and create some game-changing solutions together! 🏀🚀
         </strong>
     </p>
