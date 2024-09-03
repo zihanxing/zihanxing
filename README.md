@@ -16,10 +16,9 @@
     <br>
     <p>
         <strong>
-            AI Enthusiast, Machine Learning Practitioner, Problem Solver.<br><br>
-            I specialize in AI model and solution development and have hands-on experience with NLP and LLMs. Proficient in Python with strong foundations in machine learning, cloud computing, and MLOps.<br><br>
-            Passionate about AI, cloud technologies, and developing innovative solutions using the latest machine learning techniques.<br><br>
-            Detail-oriented and committed engineer, with a focus on delivering high-quality results efficiently. Quick learner and self-motivated with a collaborative spirit.
+            Welcome to my GitHub! I'm a problem-solving engineer with a passion for AI/ML and a jump shot for innovation. Just as a point guard orchestrates the perfect play, I specialize in developing AI/ML solutions and solutions that score big in the tech world.<br><br>
+            Let's connect and create some game-changing solutions together! 🏀🚀
+
         </strong>
     </p>
     <ul>
