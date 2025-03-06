@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div> -->
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Zach+%F0%9F%91%8B;AI+Master's+Student;AI+Engineer;Problem+Solver;Tech+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Zach+%F0%9F%91%8B;AI/ML+Engineer;Problem+Solver;Tech+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/zihan-xing-zach/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -21,13 +21,13 @@
         </strong>
     </p>
     <ul>
-        <li>🌱 <b>I’m currently learning</b>: Advanced Machine Learning and AI Engineering at Duke University.</li>
-        <li>🎯 <b>I’m currently focusing on</b>: LLMs and AI-driven applications.</li>
+<!--         <li>🌱 <b>I’m currently learning</b>: Advanced Machine Learning and AI Engineering at Duke University.</li> -->
+        <li>🎯 <b>I’m currently focusing on</b>: Gen AI, Agents-driven applications.</li>
         <!-- <li>🤔 <b>I’m currently open for</b>: Opportunities in AI and Machine Learning fields, <a href="https://linkedin.com/in/zihan-xing-zach">LINK TO MY LINKEDIN</a>.</li> -->
         <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/zihanxing/zihanxing/issues">Here</a>.</li>
-        <li>📫 <b>How to reach me</b>: Catch me via email at zx123@duke.edu or connect on <a href="https://linkedin.com/in/zihan-xing-zach">LinkedIn</a>.</li>
+        <li>📫 <b>How to reach me</b>: Catch me via email at zachxingchn@gmail.com or connect on <a href="https://linkedin.com/in/zihan-xing-zach">LinkedIn</a>.</li>
         <li>😄 <b>Fun fact</b>: I love learning and exploring new technologies to innovate business solutions.</li>
-        <li>👨‍💻 <b>Check out my projects</b>: Visit my GitHub repositories for AI projects and more.</li>
+        <li>👨‍💻 <b>Check out my projects</b>: Visit my GitHub repositories for AI/ML projects and more.</li>
     </ul>
 </div>
     <div align=center>
