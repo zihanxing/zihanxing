@@ -26,8 +26,8 @@
         <!-- <li>🤔 <b>I’m currently open for</b>: Opportunities in AI and Machine Learning fields, <a href="https://linkedin.com/in/zihan-xing-zach">LINK TO MY LINKEDIN</a>.</li> -->
         <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/zihanxing/zihanxing/issues">Here</a>.</li>
         <li>📫 <b>How to reach me</b>: Catch me via email at zachxingchn@gmail.com or connect on <a href="https://linkedin.com/in/zihan-xing-zach">LinkedIn</a>.</li>
-        <li>😄 <b>Fun fact</b>: I love learning and exploring new technologies to innovate business solutions.</li>
-        <li>👨‍💻 <b>Check out my projects</b>: Visit my GitHub repositories for AI/ML projects and more.</li>
+<!--         <li>😄 <b>Fun fact</b>: I love learning and exploring new technologies to innovate business solutions.</li> -->
+<!--         <li>👨‍💻 <b>Check out my projects</b>: Visit my GitHub repositories for AI/ML projects and more.</li> -->
     </ul>
 </div>
     <div align=center>
