@@ -39,5 +39,6 @@ Have an interesting problem that needs solving? Want to discuss the latest in AI
 </div>
 
 ---
-
-*"The best way to predict the future is to create it."*
+<div align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</div>
