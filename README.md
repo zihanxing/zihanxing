@@ -12,13 +12,6 @@ I'm an AI/ML engineer with a genuine curiosity for how technology can transform 
 
 When I'm not coding, you might find me bouncing ideas (or basketballs 🏀) - I believe the best solutions come from combining technical expertise with creative thinking and real-world perspective.
 
-## What I'm Up To
-
-- 🔭 **Currently exploring**: The fascinating intersection of Generative AI and agent-based systems - building tools that can think and act more intuitively
-- 💡 **Passionate about**: Translating complex AI concepts into practical solutions that solve tangible problems
-- 🤝 **Looking for**: Collaborations with like-minded innovators who want to push the boundaries of what AI can do
-- 📚 **Always learning**: The AI landscape evolves daily - and so do I
-
 ## Let's Connect
 
 Have an interesting problem that needs solving? Want to discuss the latest in AI/ML? Or just want to exchange ideas?
