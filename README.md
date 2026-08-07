@@ -3,20 +3,16 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/zihan-xing-zach/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/zachxing/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </div>
 
 ## About Me
 
 I build AI/ML that actually gets used. Grounded in industry experience and academic training, I turn fuzzy problems into shipped features. I’m relentlessly customer-driven, always eager to talk with users, translating real-world pain into clear technical plans, and delivering results. If it lives between algorithms and impact, that’s where I do my best work.
 
-When I'm not coding, you might find me bouncing ideas (or basketballs 🏀) - I believe the best solutions come from combining technical expertise with creative thinking and real-world perspective.
+When I'm not coding, you might find me bouncing ideas (or basketballs 🏀) or meditating 🧘
 
 ## Let's Connect
 
-Have an interesting problem that needs solving? Want to discuss the latest in AI/ML? Or just want to exchange ideas?
-
-- 📧 Reach me at: zachxingchn@gmail.com
-- 💼 Connect on [LinkedIn](https://linkedin.com/in/zihan-xing-zach)
-- 💬 Ask me anything [here](https://github.com/zihanxing/zihanxing/issues)
-
+- Reach me at: zachxingchn@gmail.com
+- Connect on [LinkedIn](https://linkedin.com/in/zachxing)
